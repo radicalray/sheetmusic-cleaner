@@ -7,7 +7,6 @@ Uses openCV to clean the background of sheet music
 ```
 opencv (good luck)
 ImageMagick (brew install imagemagick + brew install ghostscript for pdf support)
-
 numpy
 ```
 
